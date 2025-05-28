@@ -38,7 +38,7 @@ const ContactSection = () => {
           </p>
           <p className="flex items-center gap-3 text-lg">
             <FaPhoneAlt className="text-[#de5b38]" />
-            +919358113480
+            +919799589829
           </p>
           <p className="flex items-center gap-3 text-lg">
             <FaEnvelope className="text-[#de5b38]" />
