@@ -67,12 +67,12 @@ const HeroAshramSection = () => {
           ref={buttonsRef}
           className="flex flex-wrap justify-center gap-4 mt-4"
         >
-          <a href="tel:+919358113480">
+          <a href="tel:+919799589829">
             <button className="bg-orange-500 hover:bg-orange-600 text-white text-sm px-6 py-2 rounded-lg font-semibold shadow-lg transition">
-              📞 Call +919358113480
+              📞 Call +919799589829
             </button>
           </a>
-          <a href="https://wa.me/+919358113480">
+          <a href="https://wa.me/+919799589829">
             <button className="bg-orange-500 hover:bg-orange-600 text-white text-sm px-6 py-2 rounded-lg font-semibold shadow-lg transition flex items-center gap-2">
               <IoLogoWhatsapp size={18} /> Whatsapp
             </button>
