@@ -67,7 +67,7 @@ const AboutUs = () => {
             <br /><br />
             At Sri Janki Mahal Trust Ayodhya, we pride ourselves on providing a home away from home for all our guests. Our hotel rooms are designed to offer a comfortable and relaxing stay, whether you’re traveling for business or pleasure. Located in a prime spot, our establishment is the perfect choice for those seeking convenience and comfort.
           </p>
-            <a href="https://wa.me/+919358113480">
+            <a href="https://wa.me/+919799589829">
           <button className="mt-6 bg-orange-600 text-white px-6 py-3 rounded-md font-semibold w-fit hover:bg-orange-700 transition-all">
             Book Your Room Now
           </button>
